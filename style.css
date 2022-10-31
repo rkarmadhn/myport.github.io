@@ -1,0 +1,21 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #75b798;
+}
+.jumbotron h1{
+  margin-bottom: 50px;
+}
+.about{
+  margin-top: 30px;
+}
+section{
+    padding-top: 5rem;
+}
+@media (max-width : 540px){
+  .contact{
+    padding : 0px 35px;
+  }
+}
